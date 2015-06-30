@@ -4,10 +4,7 @@
     "pluginsConfig": {
             "edit-link": {
                 "base": "http://prose.io/#MozillaScience/leadership-training/edit/master",
-                "label": {
-                    "en": "Edit This Page",
-                    "de": "Seite bearbeiten"
-                }
+                "label": "Edit this Page"
             }
     }
 }
