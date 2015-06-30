@@ -1,0 +1,16 @@
+language: node_js
+install: npm install gitbook
+before_script: gitbook install
+node_js:
+- '0.10'
+script: gitbook build
+deploy:
+  provider: s3
+  access_key_id: AKIAICH2HQYD74HIQGOQ
+  secret_access_key:
+    secure: VC7Yx8pL5GHKT0sEYr+oG+F085swZi6BPVi1xrMjgR7t5XgnUESJswgPveEHbtlENrZhcwLj9BgzV7zN0L9XS3Bwe0fJjrJqibZa9KpRZEBLS7Uic6WIGi1JE5pAQTViMo0saIx37U5RzyC4eiaEjVEYKl0rU2m2SFyC2xTzJ8OXagicmLZo6rZcD312C92D8HsIJz6NUIHx/NfpQOUC8orXYQu95XXYwae1Z/yRJZCqBHdaes+V3WyozgXWeeM0EoPRzPlmoqNSdCE7cNgKrh+34bW8r8/S73wm6hHkwyg1vJgNsrNjUp1MX6vWgE7VFvlR7bWsSvMfWl/s3kUvOiIqvvKEusk4kEi6bRpIOZ1U+1Mn1b6F51Ci3DZ/3SfE3UyJ8R00tIa/q3PzpBpfJvq0iGRq2g3P7hJUMvTuOXUSOmEaT5sVc+vbCRLm5TGkw09uL5HuOyh712qS3UFnd5FyzmoagE0jDJqKq2j/p29nTPIgOjYdSL62Ty01cjgpWxIuplTusjbsNyItxaknHsxwzyfJ6h0KagGvj7h2ipB2Kqr3QXfjM58gMc2cBfi6qYqQkWihBgWsEaUV6OdpFvjWv6duPSf5u/O96VQELMoD2yEQ7du6SlUpvXX2A14kkTQoSWdy6luHQ1AfJ/5My8vChebZ/YPRoKV19zyL97Y=
+  bucket: leadership-training
+  local-dir: _book
+  acl: public_read
+  on:
+    repo: mozillascience/leadership-training

@@ -1,0 +1,13 @@
+{
+    "gitbook": "2.0.1",
+    "plugins": ["edit-link"],
+    "pluginsConfig": {
+            "edit-link": {
+                "base": "http://prose.io/#MozillaScience/leadership-training/edit/master",
+                "label": {
+                    "en": "Edit This Page",
+                    "de": "Seite bearbeiten"
+                }
+            }
+    }
+}
