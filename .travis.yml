@@ -4,7 +4,7 @@ before_script: gitbook install
 node_js:
 - '0.10'
 script: gitbook build
-after_sucess:
+after_success:
 - bash deploy.sh
 env:
   global:
