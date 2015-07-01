@@ -1,10 +1,13 @@
 {
     "gitbook": "2.0.1",
-    "plugins": ["edit-link"],
+    "plugins": ["edit-link", "ga"],
     "pluginsConfig": {
             "edit-link": {
                 "base": "http://prose.io/#MozillaScience/leadership-training/edit/master",
-                "label": "Edit this Page"
+                "label": "Edit"
+            },
+            "ga": {
+                "token": "UA-35433268-51"
             }
     }
 }
