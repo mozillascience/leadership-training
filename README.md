@@ -1,4 +1,4 @@
-# Mozilla Fellows Leadership Training
+# [Mozilla Fellows Leadership Training](http://mozillascience.github.io/leadership-training/)
 
 * [Mozilla & Open](01-mozilla_open.md)
   * [Mozilla 101](01.1-mozilla_101.md)
