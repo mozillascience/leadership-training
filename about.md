@@ -1,6 +1,6 @@
 # Edit this Book
 
-This book is produced using a hacked up [version](https://github.com/davidascher/gitbook/tree/webmaker-styling) of [Gitbook](https://github.com/GitbookIO/gitbook) (hacked so that the styling is more in line with build.webmaker.org).
+This book is produced using [Gitbook](https://github.com/GitbookIO/gitbook).
 
 To edit the content, just edit or create new markdown files in the [github repo](https://github.com/MozillaScience/leadership-training/).  On git push to the `master` (default) branch, Travis will run a job and push the built HTML files to the gh-pages branch.  Details of that job are in the [.travis.yml](https://github.com/MozillaScience/leadership-training/blob/master/.travis.yml).
 
