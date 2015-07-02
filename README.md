@@ -1,12 +1,17 @@
-# [Mozilla Fellows Leadership Training](http://mozillascience.github.io/leadership-training/)
+# [Mozilla Leadership Training](http://mozillascience.github.io/leadership-training/)
+
+Working openly with contributors enables your community to learn how to build
+and collaborate together. This document is a guideline on how to work openly and
+involve others in your projects with Mozilla. We want to help you engage your
+community in a way that encourages contributors and builds other leaders.
 
 * [Mozilla & Open](01-mozilla_open.md)
   * [Mozilla 101](01.1-mozilla_101.md)
   * [Working Open](01.2-working_open.md)
   * [Who are Contributors?](01.3-contributors.md)
 * [Project Setup](02-setup.md)
-  * [Roadmapping](02.1-roadmap.md)
-  * [Lowering Barriers](02.2-newcomers.md)
+  * [Lowering Barriers](02.1-newcomers.md)
+  * [Roadmapping](02.2-roadmap.md)
   * [Legal](02.3-legal.md)
 * [Working with Contributors](03-contributors.md)
   * [Mechanics of Contributing](03.1-mechanics.md)
