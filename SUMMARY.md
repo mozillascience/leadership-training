@@ -18,4 +18,5 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
 * [Maintaining Momentum](05-momentum.md)
   * [Events](05.1-events.md)
   * [Project Management](05.2-project_management.md)
+* [Project Checklist](06-checklist.md)
 * [Edit this Book](about.md)
