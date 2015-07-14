@@ -8,6 +8,7 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
   * [Lowering Barriers](02.1-newcomers.md)
   * [Roadmapping](02.2-roadmap.md)
   * [Legal](02.3-legal.md)
+  * [Project Checklist](02.4-checklist.md)
 * [Working with Contributors](03-contributors.md)
   * [Mechanics of Contributing](03.1-mechanics.md)
   * [Engaging Contributors](03.2-engaging.md)
@@ -18,5 +19,4 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
 * [Maintaining Momentum](05-momentum.md)
   * [Events](05.1-events.md)
   * [Project Management](05.2-project_management.md)
-* [Project Checklist](06-checklist.md)
 * [Edit this Book](about.md)
