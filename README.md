@@ -1,4 +1,4 @@
-# [Mozilla Leadership Training](http://mozillascience.github.io/leadership-training/)
+# ['Working Open' Project Guide](http://mozillascience.github.io/leadership-training/)
 
 Working openly with contributors enables your community to learn how to build
 and collaborate together. This document is a guideline on how to work openly and
