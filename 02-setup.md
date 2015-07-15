@@ -1,6 +1,6 @@
 # Project Setup
 
-This section will outline some best practices for setting up a new project in a way that encourages participation.
+This section will outline some best practices for setting up a new project in a way that encourages participation. This can be anything from a software project to open educational materials.
 
 * [GitHub](02.1-newcomers.md): Make your work publicly accessible.
 * [README.md](02.1-newcomers.md#README.md): Describe your project. This will be most users first impression.

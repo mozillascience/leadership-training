@@ -1,9 +1,8 @@
 This is the TOC on the sidebar.  Probably shows up in a PDF version too.
 
-* [Mozilla & Open](01-mozilla_open.md)
-  * [Mozilla 101](01.1-mozilla_101.md)
-  * [Working Open](01.2-working_open.md)
-  * [Who are Contributors?](01.3-contributors.md)
+* [Mozilla 101](01-mozilla_101.md)
+  * [Working Open](01.1-working_open.md)
+  * [Who are Contributors?](01.2-contributors.md)
 * [Project Setup](02-setup.md)
   * [Lowering Barriers](02.1-newcomers.md)
   * [Roadmapping](02.2-roadmap.md)
@@ -19,4 +18,5 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
 * [Maintaining Momentum](05-momentum.md)
   * [Events](05.1-events.md)
   * [Project Management](05.2-project_management.md)
+* [Further Reading](06-reading.md)
 * [Edit this Book](about.md)

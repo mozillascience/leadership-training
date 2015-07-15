@@ -5,10 +5,9 @@ and collaborate together. This document is a guideline on how to work openly and
 involve others in your projects with Mozilla. We want to help you engage your
 community in a way that encourages contributors and builds other leaders.
 
-* [Mozilla & Open](01-mozilla_open.md)
-  * [Mozilla 101](01.1-mozilla_101.md)
-  * [Working Open](01.2-working_open.md)
-  * [Who are Contributors?](01.3-contributors.md)
+* [Mozilla 101](01-mozilla_101.md)
+  * [Working Open](01.1-working_open.md)
+  * [Who are Contributors?](01.2-contributors.md)
 * [Project Setup](02-setup.md)
   * [Lowering Barriers](02.1-newcomers.md)
   * [Roadmapping](02.2-roadmap.md)
@@ -24,4 +23,5 @@ community in a way that encourages contributors and builds other leaders.
 * [Maintaining Momentum](05-momentum.md)
   * [Events](05.1-events.md)
   * [Project Management](05.2-project_management.md)
+* [Further Reading](06-reading.md)
 * [Edit this Book](about.md)
