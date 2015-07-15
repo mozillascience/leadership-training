@@ -8,7 +8,9 @@ On the mechanics of GitHub
 * http://guides.github.com/
 * https://guides.github.com/introduction/flow/
 
-On Open Source
+On open source
 * http://spf13.com/presentation/what-every-open-source-project-needs/
 * http://redmonk.com/dberkholz/2012/10/29/githubs-success-and-low-barriers-to-entry/
 
+On community
+* https://wiki.mozilla.org/Community
