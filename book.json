@@ -3,7 +3,7 @@
     "plugins": ["edit-link", "ga"],
     "pluginsConfig": {
             "edit-link": {
-                "base": "https://github.com/acabunoc/leadership-training/edit/master",
+                "base": "https://github.com/mozillascience/leadership-training/edit/master",
                 "label": "Edit"
             },
             "ga": {
