@@ -25,3 +25,23 @@ community in a way that encourages contributors and builds other leaders.
   * [Project Management](05.2-project_management.md)
 * [Further Reading](06-reading.md)
 * [Edit this Book](CONTRIBUTING.md)
+
+## Help us finish this book
+
+To add content to this book, follow these steps:
+
+1. On the page you want to edit, click on the **'Edit'** button at the top of the page
+    ![edit](/img/edit.jpg)
+2. Make your edits in the GitHub interface. When you're done, scroll down and add a commit message summarizing your changes
+3. Click on the **'propose file change'** button
+
+    ![propose](/img/propose.png)
+4. Hit the **'Create pull request'** button, make sure everything looks good, then hit **'Create pull request'** again
+
+    ![create](/img/create.png)
+
+This will open a discussion on your proposed changes. If your pull request is merged in, you'll see your changes appear here.
+
+## Feedback
+
+Are we missing anything? Have a comment? [Let us know what you think](https://github.com/mozillascience/leadership-training/issues/new).
