@@ -19,4 +19,4 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
   * [Events](05.1-events.md)
   * [Project Management](05.2-project_management.md)
 * [Further Reading](06-reading.md)
-* [Edit this Book](about.md)
+* [Edit this Book](CONTRIBUTING.md)
