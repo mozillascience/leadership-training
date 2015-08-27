@@ -1,6 +1,6 @@
 # Mozilla 101
 
-We’re building a better Internet
+We’re building a better Internet.
 
 Our mission is to promote openness, innovation & opportunity on the Web.
 
