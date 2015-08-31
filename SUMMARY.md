@@ -1,8 +1,8 @@
 This is the TOC on the sidebar.  Probably shows up in a PDF version too.
 
-* [Mozilla 101](01-mozilla_101.md)
-  * [Working Open](01.1-working_open.md)
-  * [Who are Contributors?](01.2-contributors.md)
+* [Why Open?](01.1-whyopen.md)		
+  * [Working Open Basics](01.2-working_open.md)
+  * [Open at Mozilla](01.4-openatmozilla.md)	
 * [Project Setup](02-setup.md)
   * [Lowering Barriers](02.1-newcomers.md)
   * [Roadmapping](02.2-roadmap.md)
