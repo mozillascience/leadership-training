@@ -28,9 +28,9 @@ Are we missing anything? Have a comment? [Let us know what you think](https://gi
 
 ## Table of Contents
 
-* [Mozilla 101](http://mozillascience.github.io/leadership-training/01-mozilla_101.html)
-  * [Working Open](http://mozillascience.github.io/leadership-training/01.1-working_open.html)
-  * [Who are Contributors?](http://mozillascience.github.io/leadership-training/01.2-contributors.html)
+* [Why Open?](01.1-whyopen.html)
+  * [Working Open Basics](01.2-working_open.html)
+  * [Open at Mozilla](01.4-openatmozilla.html)
 * [Project Setup](http://mozillascience.github.io/leadership-training/02-setup.html)
   * [Lowering Barriers](http://mozillascience.github.io/leadership-training/02.1-newcomers.html)
   * [Roadmapping](http://mozillascience.github.io/leadership-training/02.2-roadmap.html)
@@ -49,9 +49,10 @@ Are we missing anything? Have a comment? [Let us know what you think](https://gi
 * [Further Reading](http://mozillascience.github.io/leadership-training/06-reading.html)
 * [Edit this Book](http://mozillascience.github.io/leadership-training/CONTRIBUTING.html)
 
+## TODO: Who is this for?
 
-
-### License
+## License
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
