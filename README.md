@@ -1,4 +1,5 @@
 # ['Working Open' Project Guide](http://mozillascience.github.io/leadership-training/)
+[![DOI](https://zenodo.org/badge/19213/mozillascience/leadership-training.svg)](https://zenodo.org/badge/latestdoi/19213/mozillascience/leadership-training)
 
 ###Hello There!
 Welcome to Mozilla Science Lab's Working Open Guide. This guide was created by MSL's core team, along with our broader community, to introduce you to "working open" and provide a framework and resources for running sucessful open science projects. **In a nutshell, working openly enables a community of skilled contributors to collaborate and build together, making better, more useful products and research. Sounds great, right?**
@@ -63,4 +64,5 @@ Are we missing anything? Have a comment? [Let us know what you think](https://gi
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
 
