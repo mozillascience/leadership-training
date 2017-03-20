@@ -1,4 +1,6 @@
 # ['Working Open' Project Guide](http://mozillascience.github.io/leadership-training/)
+
+[![Join the chat at https://gitter.im/mozillascience/leadership-training](https://badges.gitter.im/mozillascience/leadership-training.svg)](https://gitter.im/mozillascience/leadership-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![DOI](https://zenodo.org/badge/19213/mozillascience/leadership-training.svg)](https://zenodo.org/badge/latestdoi/19213/mozillascience/leadership-training)
 
 ###Hello There!
