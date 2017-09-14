@@ -5,6 +5,7 @@ On working open
 * http://openmatt.org/2011/04/06/how-to-work-open/
 * http://blog.workopen.org/leadership/
 * http://openmatt.org/2013/10/10/7-recommendations/
+* https://github.com/open-organization-ambassadors/open-org-workbook
 
 On the mechanics of GitHub
 * http://guides.github.com/
